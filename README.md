@@ -15,6 +15,6 @@ python manage.py runserver 5000
 
 Step 1: Up load wikiSummary extentsion to chrome
 
-Step 2: Copy paste text to $Enter Keyword box$
+Step 2: Copy paste text to Enter Keyword
 
 Step 3: Click button submit and get result of the textarea below.
